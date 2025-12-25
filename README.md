@@ -34,5 +34,5 @@ Key Features:
 
 The analysis provides actionable insights, such as identifying high-failure regions and peak-hour traffic patterns, allowing the business to refine shipping policies and driver allocation strategies.
 ________________________________________
-Technologies Used: Python, Pandas, Matplotlib, Seaborn, Scikit-learn.
+Technologies Used: Python (Pandas, Matplotlib, Seaborn, Scikit-learn).
 
